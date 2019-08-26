@@ -15,3 +15,6 @@ compare: patchname
 Click create pull request.  
 Write a message.  
 Click create pull request.
+
+## Git VS Code practice
+Download VS Code, a open IDE 
